@@ -1,0 +1,13 @@
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+
+li {
+	display: inline;
+}
+
+.push {
+	margin-left: 55px;
+}
+
